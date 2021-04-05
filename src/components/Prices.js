@@ -55,11 +55,11 @@ const Prices = () => {
                       </div>
                     
                 <ul>
-                  <li>{prices.msg1}</li>
-                  <li>{prices.msg2}</li>
-                  <li>{prices.msg3}</li>
-                  <li>{prices.msg4}</li>
-                  <li>{prices.msg5}</li>
+                  <li><p>{prices.msg1}</p></li>
+                  <li><p>{prices.msg2}</p></li>
+                  <li><p>{prices.msg3}</p></li>
+                  <li><p>{prices.msg4}</p></li>
+                  <li><p>{prices.msg5}</p></li>
                 </ul>
                 <div className="price__btn">
                   <a href="https://saiprahlad6.github.io/" className="btn btn-outline">
