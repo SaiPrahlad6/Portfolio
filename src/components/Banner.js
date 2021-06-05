@@ -13,6 +13,9 @@ import {
 import {
   FiTwitter
 } from "react-icons/fi";
+import {
+  FcGoogle
+} from "react-icons/fc";
 const Banner = () => {
      const [state] = React.useState({
     title: "I am  Majoju Krishna Sai Prahlad",
@@ -30,6 +33,9 @@ const Banner = () => {
                             <ul className="header__ul">
                                 <li>
                     <a href="https://drive.google.com/file/d/179iHT7C2sQrTFYK6C2lUPlQsI_4WNNX8/view?usp=sharing"><ImGithub className="headerIcon" /></a>
+                  </li>
+                 <li>
+                    <a href="https://developers.google.com/profile/u/102490932243287693949"><FcGoogle className="headerIcon" /></a>
                   </li>
                   <li>
                     <a href="https://www.linkedin.com/in/majoju-krishna-prahlad-0808901b2/"><GrLinkedin className="headerIcon" /></a>
