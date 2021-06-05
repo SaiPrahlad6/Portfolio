@@ -12,6 +12,9 @@ import {
 import {
   FiTwitter
 } from "react-icons/fi";
+import {
+  FcGoogle
+} from "react-icons/fc";
 import Icon2 from '../images/prahlad_icon.jpg'
 const Contact = () => { 
   return (
@@ -30,6 +33,9 @@ const Contact = () => {
                 <li>
                                   <a style={{ color: "#fff" }} href="https://drive.google.com/file/d/179iHT7C2sQrTFYK6C2lUPlQsI_4WNNX8/view?usp=sharing"><ImGithub className="contactIcon" /></a>
                 </li>
+                 <li>
+                    <a href="https://developers.google.com/profile/u/102490932243287693949"><FcGoogle className="headerIcon" /></a>
+                  </li>
                 <li>
                   <a style={{ color: "#fff" }} href="https://www.linkedin.com/in/majoju-krishna-prahlad-0808901b2/"><GrLinkedin className="contactIcon" /></a>
                 </li>
