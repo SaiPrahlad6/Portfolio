@@ -29,7 +29,7 @@ const Nav = () => {
                 <a href="#skills">Skills</a>
               </li>
               <li>
-                <a href="https://drive.google.com/file/d/179iHT7C2sQrTFYK6C2lUPlQsI_4WNNX8/view?usp=sharing">Resume</a>
+                <a href="https://drive.google.com/file/d/150UH6KeR5jp7O6XWhsAtFML7kXGn6jsw/view?usp=sharing">Resume</a>
               </li>
               <li>
                 <a href="#contact">Contact</a>
