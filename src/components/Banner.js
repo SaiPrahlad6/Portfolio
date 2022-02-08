@@ -50,7 +50,7 @@ const Banner = () => {
                 <h1>{state.title}</h1>
                 <p>{state.text}</p>
                 <div className="header__buttons">
-                  <a href="https://drive.google.com/file/d/150UH6KeR5jp7O6XWhsAtFML7kXGn6jsw/view?usp=sharing">
+                  <a href="https://drive.google.com/file/d/150UH6KeR5jp7O6XWhsAtFML7kXGn6jsw/view?usp=sharing" className="btn btn-outline">
                     Resume
                   </a>
                   &nbsp;&nbsp;&nbsp;
