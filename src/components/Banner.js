@@ -20,7 +20,7 @@ const Banner = () => {
      const [state] = React.useState({
     title: "I am  Majoju Krishna Sai Prahlad",
     text:
-      "I am an Android Developer with great experience in this field​",
+      "I am an aspiring Data Scientist with experience in SQL, Statistics and Algorithms​",
     image: {Prahlad},
   });
     return (
